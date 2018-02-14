@@ -1,6 +1,7 @@
 package ie.dit;
 
-public class Tune{
+public class Tune implements Player
+{
 
 	//Private fields
 	private int x;
